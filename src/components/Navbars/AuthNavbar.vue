@@ -84,12 +84,13 @@
           </li>
 
           <li class="flex items-center">
-            <button
+            <a
               class="bg-white text-blueGray-700 active:bg-blueGray-50 text-xs font-bold uppercase px-4 py-2 rounded shadow hover:shadow-md outline-none focus:outline-none lg:mr-1 lg:mb-0 ml-3 mb-3 ease-linear transition-all duration-150"
-              type="button"
+              href="https://www.creative-tim.com/product/vue-notus?ref=vn-auth"
+              target="_blank"
             >
               <i class="fas fa-arrow-alt-circle-down"></i> Download
-            </button>
+            </a>
           </li>
         </ul>
       </div>
